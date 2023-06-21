@@ -1,10 +1,10 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:khan_dairy/routes/Human%20Resources%20Screens/add_salary.dart';
+
 import '../../constants/constants.dart';
 import '../../modals/global_widgets.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_core/firebase_core.dart';
 
 class EmployeeSalary extends StatefulWidget {
   static String id = 'EmployeeSalary';
