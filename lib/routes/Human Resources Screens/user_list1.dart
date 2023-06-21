@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:khan_dairy/modals/global_widgets.dart';
-
 import '../../constants/constants.dart';
+import 'package:intl/intl.dart';
+
+import 'package:khan_dairy/modals/global_widgets.dart';
 
 class UserList extends StatelessWidget {
   static String id = 'UserList';

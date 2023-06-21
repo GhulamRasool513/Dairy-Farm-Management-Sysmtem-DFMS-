@@ -1,10 +1,16 @@
+import 'dart:math';
+
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:khan_dairy/modals/global_widgets.dart';
-
+import 'package:khan_dairy/routes/Human%20Resources%20Screens/add_user.dart';
+import 'package:khan_dairy/routes/Human%20Resources%20Screens/salary_list.dart';
 import '../../constants/constants.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:flutter_typeahead/flutter_typeahead.dart';
+import 'package:faker/faker.dart';
 
 class AddSalary extends StatefulWidget {
   String? name;
