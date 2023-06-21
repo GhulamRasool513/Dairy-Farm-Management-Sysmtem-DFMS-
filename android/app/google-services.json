@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "917963014037",
+    "project_id": "cow-dairy-system",
+    "storage_bucket": "cow-dairy-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917963014037:android:82a230700b14a25e9d809c",
+        "android_client_info": {
+          "package_name": "com.SamTech.khan_dairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917963014037-5nls2j58brseo9qlokgkdtitont6ot9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcAGfuVX5Rdkl6H31AMluq9TdlKdMz22c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917963014037-5nls2j58brseo9qlokgkdtitont6ot9q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "917963014037-2bcterl2g59kd6hcbam93lgeim9jj8gb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.SamTech.khanDairy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
